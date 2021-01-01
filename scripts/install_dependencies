@@ -1,7 +1,9 @@
 echo '============================'
 echo 'Running install_dependencies'
 echo '============================'
-
+echo 'sudo command'
 sudo su -
 cd /var/www/aws-exercise-a
+touch abc
+echo 'touch'
 npm install
