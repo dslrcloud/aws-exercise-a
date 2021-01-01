@@ -6,4 +6,4 @@ sudo su -
 cd /var/www/aws-exercise-a
 touch abc
 echo 'touch'
-npm install
+sudo npm install
